@@ -1,0 +1,40 @@
+{
+    "appKeys": {
+        "LOCATION_LATLON_RES_KEY": 20,
+        "LOCATION_REQ_KEY": 1,
+        "MILTTIDE_RES_BIN_KEY": 51,
+        "TIDE_RES_BIN_KEY": 5,
+        "TIDE_RES_FINISH_KEY": 4,
+        "TIDE_RES_READY_KEY": 3,
+        "WEATHER_CITY_KEY": 33,
+        "WEATHER_ICON_KEY": 31,
+        "WEATHER_TEMPERATURE_KEY": 32,
+        "YW_RES_CLEAR_KEY": 42,
+        "YW_RES_TITLE_KEY": 41
+    },
+    "companyName": "dangerouswoo@gmail.com",
+    "longName": "DigitalWatch with tide display for Japanese uses.",
+    "projectType": "native",
+    "resources": {
+        "media": [
+            {
+                "file": "images/back.png",
+                "name": "IMAGE_BACK",
+                "type": "png-trans"
+            },
+            {
+                "file": "fonts/moongraph.ttf",
+                "name": "FONT_MOONGRAPH_30",
+                "type": "font"
+            }
+        ]
+    },
+    "sdkVersion": "2",
+    "shortName": "JapaneseTideDigitalWatch",
+    "uuid": "358c3c5d-3a06-448c-b2ea-f33a0c1d8661",
+    "versionCode": 1,
+    "versionLabel": "1.3",
+    "watchapp": {
+        "watchface": true
+    }
+}
